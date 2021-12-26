@@ -14,18 +14,17 @@ h1 { margin-top: 10px;
 
 
 .navclass {display: inline-flex;
-		margin-left: 120px;
-		margin-top: 20px; 
-	font color:#FFFFFF}
+			margin-left: 120px;
+			margin-top: 20px; }
 
 .ulclass {
 		font-size: 48px;
-		font color:#FFFFFF ;
+		color:white ;
 		display: flex;}
 
 .liclass {margin: 20px}
 
-.pathclass {  width: 201px;
+.pathclass { width: 201px;
     		height: 151px;
     		margin-top: 20px;}
 
@@ -35,28 +34,28 @@ h1 { margin-top: 10px;
  .articlecontainer2 {display: flex; 
  					justify-content: space-between;}
 
-.articleclass1 {	width: 617px;
+.articleclass1 {width: 617px;
    				height: 356px;
    		 		background-color: #FCEE21;
    		 		margin-top: 40px;
     			padding: 17px 26px 27px 17px; 
     			display: inline-block;}
 
-.articleclass2 {	width: 617px;
+.articleclass2 {width: 617px;
    				height: 356px;
    		 		background-color: #FCEE21;
    		 		margin-top: 40px;
     			padding: 17px 26px 27px 17px; 
     			display: inline-block;}
 
-.articleclass3 {	width: 617px;
+.articleclass3 {width: 617px;
    				height: 356px;
    		 		background-color: #FCEE21;
    		 		margin-top: 40px;
     			padding: 17px 26px 27px 17px; 
     			display: inline-block;}
 
-.articleclass4 {	width: 617px;
+.articleclass4 {width: 617px;
    				height: 356px;
    		 		background-color: #FCEE21;
    		 		margin-top: 40px;
